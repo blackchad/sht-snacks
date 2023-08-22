@@ -1,13 +1,13 @@
 ---
-header_brand: "Builders Of The Future, Inc."
-header_tagline_paragraph: "Yes, we are glad you made it here. In fact, the only emotion stronger than our gladness is our desire to tell you more about what we are building. Bright times lie ahead. Let's get into it!"
+header_brand: "SHT Snacks"
+header_tagline_paragraph: "Looking for some quality SHT in your life? Discover SHT Snacks, where Simple isn’t boring, Honest is delicious, and Tasty does a little dance for the planet. It’s the SHT you never knew you needed!"
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Get this SHT"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+  title: "Why EAT SHT?"
+teaser_image: "images/logo.jpg"
 ---
 
 # The Future - Today!
