@@ -2,15 +2,23 @@
 header_brand: "SHT Snacks"
 header_tagline_paragraph: "Looking for some quality SHT in your life? Discover SHT Snacks, where Simple isn’t boring, Honest is delicious, and Tasty does a little dance for the planet. It’s the SHT you never knew you needed!"
 header_button_cta:
-  url: "#eat-this-sht"
+  url: "#get-this-sht"
   title: "Get this SHT"
 header_button_more:
-  url: "#eat-this-sht"
+  url: "#why-eat-sht"
   title: "Why EAT SHT?"
 teaser_image: "images/logo.jpg"
 ---
 
-# Eat This SHT!
+# Get this SHT
+
+Join our mailing list and we'll tell you when you can get this SHT.
+
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+
+---
+
+# Why eat SHT?
 
 When it comes to sustainable and nutritious protein sources, crickets are emerging as a frontrunner for several compelling reasons:
 
@@ -22,23 +30,17 @@ When it comes to sustainable and nutritious protein sources, crickets are emergi
 - **Versatility:** From cricket flour that can be added to baked goods and smoothies, to roasted crickets as a crunchy snack, the range of culinary applications is vast. This versatility makes it easy for consumers to integrate crickets into their daily diet.
 - **Ethical Considerations:** With advancements in farming techniques, crickets can be raised and harvested humanely, offering an alternative for those concerned about the ethical treatment of larger livestock.
 
-In a world facing the challenges of climate change, population growth, and increasing demands on our natural resources, crickets offer a promising solution as a protein source that's not only nutritious but also environmentally friendly, efficient, and sustainable.
+In a world facing the challenges of climate change, population growth, and increasing demands on our natural resources, crickets offer a promising solution as a protein source that's not only nutritious but also environmentally friendly, efficient, and sustainable. [Join Us!](#get-this-sht)
 
 ---
 
-Have we caught your attention? We appreciate your support and let you know when the product is available for testing!.
+# Product
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+We've been in the kitchen whipping up some SHT Snacks. Our first product is chips... what other SHT can we get into?
 
----
+![Cricket Chips](images/product.jpg)
 
-# Prototype
-
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
-
-![Prototype Work](images/logo.jpg)
-
-Check out this sweet preview. Impressed much, are you?
+Check out these pieces of SHT... we can't wait for you to enjoy as well. Join our [mailing list](#get-this-sht) to find out when!
 
 ---
 # About Us
@@ -47,12 +49,14 @@ We, the Founders (Steven, Yoona, Aaron, Thomas, and Chad), met during our first 
 
 Global attitudes towards healthy snacking are evolving, and a new, innovative product is poised to upend eating habits to usher in a new frontier in the Western diet. SHT Snacks’ Cricket Chips is a healthy snacking chip that revitalizes, delights, and keeps the earth spinning. SHT Snacks Cricket Chips leverage a proprietary formula to thread the needle in delivering health, taste, and sustainability. Cricket protein is recognized as a sustainable and nutritious alternative to traditional protein sources, and this chip offers a unique and delicious way for adventurous snackers to incorporate it into their diet and make the world just a little better - one bite at a time.
 
+We hope you'll become as big a [fan of SHT](#get-this-sht) as we are!
+
 ---
 
-# Imprint & Privacy Policy
+# Privacy Policy
+
+We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
 Let's keep it simple. This is our contact information:
 
 E-mail: eat@shtsnacks.com
-
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
