@@ -59,4 +59,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 **Let's keep it simple.** This is our contact information:
 
+**Instagram:** https://instagram.com/sht.snacks
+**Twitter/X:** https://x.com/shtsnacks
 **E-mail:** eat@shtsnacks.com
